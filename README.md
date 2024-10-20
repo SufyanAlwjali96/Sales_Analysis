@@ -1,4 +1,7 @@
 
+![Logo](https://www.salesforce.com/in/blog/wp-content/uploads/sites/9/2024/03/Sales-Analysis.jpg)
+
+
 # Sales Analysis Project
 
 ## Project Overview
