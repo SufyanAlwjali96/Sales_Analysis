@@ -9,8 +9,7 @@ Using  SQL queries, I explored, filtered, and aggregated data to uncover valuabl
 ## Dashboard Video Walkthrough
 To give a clearer understanding of the insights generated in the project, I’ve created a video walkthrough of the Power BI dashboard. The video highlights the key features, visualizations, and insights derived from the dataset, showing how to interact with the dashboard in real-time.
 
-You can watch the video here in this link:
-https://github.com/user-attachments/assets/dbf99871-fbdb-47f6-a8ca-77223b954654
+You can watch the video here: [Video Link](https://github.com/user-attachments/assets/dbf99871-fbdb-47f6-a8ca-77223b954654)
 
 In the video, I walk through:
 - The **sales performance** by product category, showcasing top-selling items.
